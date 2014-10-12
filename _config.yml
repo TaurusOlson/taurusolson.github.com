@@ -1,0 +1,12 @@
+# Site settings
+title: In the light of stars
+email: taurusolson@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog about programming and daily thoughts.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: TaurusOlson
+github_username:  TaurusOlson
+
+# Build settings
+markdown: kramdown

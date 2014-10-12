@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Hello. Is there anybody out there?"
+date:   2014-10-11
+categories: misc
+---
+
+A new site again. Hopefully this one will be updated. You'll probably find
+posts about the things I like: programming, mathematics, data analysis.
+Sometimes I have opinions and ideas so I'll also write them down here.
