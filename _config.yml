@@ -10,3 +10,9 @@ github_username:  TaurusOlson
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
+
+port:    4000
+host:    127.0.0.1

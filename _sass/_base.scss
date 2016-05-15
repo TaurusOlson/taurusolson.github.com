@@ -130,7 +130,7 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #efefef;
 }
 
 code {
@@ -139,7 +139,8 @@ code {
 
 pre {
     padding: 8px 12px;
-    overflow-x: scroll;
+    white-space: pre-wrap;
+    word-break: break-all;
 
     > code {
         border: 0;
@@ -202,3 +203,29 @@ pre {
         }
     }
 }
+
+/* Personal modifications */
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #DDDDDD;
+}
+
+th {
+    padding: 0.4em;
+    border-bottom: 1px solid transparent;
+}
+
+tr {
+    border: 1px solid #dddddd;
+    text-align: center;
+}
+
+td {
+    padding: 0.4em;
+    border: 1px solid #dddddd;
+}
+

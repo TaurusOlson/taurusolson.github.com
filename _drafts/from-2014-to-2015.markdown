@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "2014 is over. 2015 is ahead."
+date:   2015-01-01
+categories: misc
+---
+
+## 2014
+
+### New things I learnt
+
+- R
+- Javascript
+- Statistics
+
+
+### Programming languages I playes with
+
+- Clojure
+- SQL
+
+
+### Movies I watched
+
+- The secret life of Walter Mitty
+- The Hobbit: the battle of the 5 armies
+
+
+### Series I watched
+
+- The walking dead
+- Game of thrones
+
+
+### Books/comics I read
+
+- Forty signs of rain
+- Fifty degrees below
+- The walking dead
+- Batman (Scott Snyder, Greg Capulo)
+- Y: the last man
+
+
+### Games I've played
+
+- GTA V
+- Far Cry 3
+- Don't starve
+- Monument Valley
+- Steam world dig
+- Bioshock infinite
+
+
+### Music I've listened to
+
+- Ben Howard
+
+
+### Places I've been
+
+- Paris (France)
+- Goettingen (Germany)
+
+
+### Other interesting events worth mentioning
+
+- Released my first packages on Pypi
+- Had fun with data science
+- Got my bike fixed
+
+
+## 2015
+
+
+### Programming languages to learn
+
+- Clojure
+- Haskell
+- Scheme
